@@ -1,0 +1,9 @@
+{
+    "name": "Mario",
+    "level": 4,
+    "items": [
+        "mushroom",
+        "star"
+    ],
+    "is_active": true
+}
